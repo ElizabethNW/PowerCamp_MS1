@@ -35,6 +35,17 @@ body {
     align-items: center;
   }
   
+  .menu-items {
+    order: 2;
+    display: flex;
+  }
+  
+  .menu-items li {
+    list-style: none;
+    margin-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+  }
 
   .logo {
     order: 1;
