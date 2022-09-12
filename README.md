@@ -1,18 +1,14 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-<h1 align="center">POWER OF SELF MINISTRIES - YOUTH CAMPS</h1>
+<h1 align="center">POWERCAMP</h1>
 
 ### Developer: Elizabeth West
 
 ![Am I Responsive] (INSERT)
 
-[View live website here](ADD LINK)
-
-[View full page screenshot](ADD LINK)
+[View live website here](https://elizabethnw.github.io/PowerCamp_MS1/)
 
 This is Youth Ministry website created for Portfolio Project #1 (HTML&CSS) for Diploma in Full Stack Software Development at [Code Institute](https://www.codeinstitute.net). It is responsive across a range of devices and it is easy to navigate for site users. 
 <br>
-The users of this website will be able to find all importtant information about upcoming Youth Camp details, photo gallery, booking form, contact and address information. 
+The users of this website will be able to find all important information about types of camps we run, FAQ's and a Contact Form.
 
 <br>
 
@@ -50,28 +46,27 @@ The users of this website will be able to find all importtant information about 
 #   Project
 ##  Strategy/Scope
 
-POSM Youth Camp website aims to provide essential information about the studio and its offer to the user in a clear and visually pleasing way. It targets families looking for information about our Youth Programs
+PowerCamp website aims to provide essential information about the available camps and its offer to the user in a clear and visually pleasing way. It targets families looking for information about our Youth Programs
 
 <br>
 
- The content is presented on scrolling page with sections dedicated to categorised informations. The <b>primary objective</b> is to encourage sign-ups by leading them to the booking form. 
+ The content is presented on scrolling page with sections dedicated to categorised informations. The <b>primary objective</b> is to encourage sign-ups by leading them to the contact form. 
 
 <br>
 To achieve the strategy goals I implemented following features:
 * simple website layout with a menu bar sticked to the top of the viewport for easy navigation,  
-* a carousel with caption images and call-to-action buttons forwarding user to relevant sections,
-* informative "About" and "Camps" sections, 
+
+* informative  "Camps" and FAQ's sections, 
 * multiple call-to-action buttons across the whole page,  
-* "Sign-up!" section with booking form providing feedback on submission,    
+* a contact form   
 * consistent images across the whole page to immerse the user in Site Owner's story. 
 <br>
 
 ## Site owner goals
 
 - to promote empowerment focused Youth Camps in the local area  
-- to provide important information about POSM Youth Camps, such as: business background, offered classes, classes timetable, instructors silhouettes, contact information, address, opening times, social media profiles,  
-- to provide booking form for the users allowing them to sign-up for events   
-- provide image gallery with photos of Youth Camps Activities to encourage  people to join, 
+- to provide booking form for the users allowing them to contact us for enquires   
+- provide image gallery with photos of to encourage  people to enquire more
 - provide social media links to advertise and gain new visitors to website, 
 - to provide an accessible website that looks well across a range of devices (responsiveness).  
 
@@ -79,27 +74,18 @@ To achieve the strategy goals I implemented following features:
 
 - as a new user I want to:
     - navigate easily through the page, 
-    - learn more about the Youth Camps, 
-    - find information about The Power of Self Ministries, 
+    - learn more about the available Camps, 
     - check upcoming events/camps, 
-    - check sign-up process,
-    - check the photos from the Camp to find out what's the "vibe" in there,  
+    - check the photos to find out what's the "vibe" in there,  
     - book myself/family to participate in camps 
-    - find out who the Camp Leads are, 
-    - learn more from sample video, 
     - contact Camp Organisers, 
-    - check address, get directions to Office, 
     - follow Group on social media, 
 
     <br>
 
 - as a returning user I want to:
     -   navigate easily through the page, 
-    -   check events schedule,
-    -   check opening times,  
-    -   book camps, 
-    -   watch previous videos sample,  
-    -   contact Camp organisers,
+    -   contact camp organisers 
     -   get directions to Office
     -   see the pictures from Camp sessions. 
 
