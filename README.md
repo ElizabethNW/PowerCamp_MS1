@@ -111,92 +111,43 @@ For beast readability and clean look white colour was chosen for the bacgkround,
 
 ##  Structure
 
-### Wireframes - [ADD LINK TO WIREFRAMES]
+### Wireframes 
+Wireframes were initially created by Balsamiq and also drawn on pen and paper.
 
-
-
-Page is designed in well known scrolling page style that users like. It provides fast access to information and immerses user in the story. Navigation bar is always visible in the viewport, that reduces number of clicks to reach desirable content. Website consists of following sections: 
 
 ## Navbar 
 
-The navigation bar is customised Bootstrap Navbar. It contains custom logo links to relevant sections. All menu elements are highlighted on hover and navbar is sticked to the top of the viewport when scrolling. On small screens navbar shows well-known "hamburger" icon and collapsible menu. 
-
-![Navbar](IMAGE) 
-
-## Carousel
-
-Bootstrap carousel shows 3 slides with photos that cover whole viewport on big screens. Each caption consists of Header, short slogan and call-to-action button that is linked to relevant key section. Carousel slides cycle through automaticaly but site user can take control over this function thanks to slider buttons and active slide indicator.  
-
-![Carousel](IMAGE)
-
-## About
-The About section is descriptive part of a website and provides information about company's goal and purpose. It also promotes Youth Camp interactions as activity that brings wellbeing benefits to the user. The business key points are presented using row of icons. Use of negative space make it easy for user to read the content and focus on important parts. 
-
-![About](IMAGE)
+The navigation bar is customised Navbar. It contains custom logo links to relevant sections. All menu elements are highlighted on hover and navbar is sticked to the top of the viewport when scrolling. On small screens navbar shows well-known "hamburger" icon and collapsible menu. 
 
 
 ## Camps
-In this section there is a short decription of company's offer. Bootstrap accordion feature has been used to accomodate five headers and paragpraphs describing different Youth Camp Events. For those who are looking for on-line learning resources, there are two categories of lessons - for beginner and advanced user. 
+In this section there is a short decription of company's offer using pictures and brief words describing different Camp Events.
 
-![Camps](IMAGE)
-
-## Instructors
-This section presents photo avatars of the Youth Camp instructors. 
-
-![Instructors](IMAGE)
-
-## Gallery
-[w3cschhols.com](https://www.w3schools.com/howto/howto_js_image_grid.asp) 
-
-![Gallery](IMAGE)
-
-## Affirmations
-
-The "Affirmations" section displays a spiritual/motivational quote that should motivate user, attract him to share or persuade him to make a contact or booking.  
-
-![Affirmation](IMAGE)
-
-## Video
-Video section presents full width iframe that contains YouTube video with relevant content. It links the user with business's YouTube channel and encourage him to interact longer with the content and build deeper interest in activities and as a result - to become new customer. 
-
-![Youtube](docs/screenshot_youtube.png)
-
-## "Sign-Up" - booking form
-The booking form is a key point of a website where user is being led consequently to make interaction and join the business as a new customer. All form fields are marked as required and are validated. The form provides feedback in case the users input is incorrect. Date select field requires further script to prevent user from picking a date from the past. Upon successful completion of the form website provides user a feedback by transfering him to thankyou.html page.    
-
-![Booking](IMAGE)
+## FAQ
+This Section has some key questions often asked, with responses all leading to the contact form to encourage people make contact.
 
 ## Footer
-The classic footer is preceded by Google Map section that indicated precise location of Yoga Studio. The footer contains of three columns, that provides information accordingly about address, contact and opening hours. The last column presents social media icons that encourage user to follow the business on various platforms. In bottom right corner of a website is  located an icon with "back to top" link.    
+The Contact page has a form with required fields and a map next to it.   
 
-![Footer](IMAGE)
+## Footer
+Ths has external links to social media pages.   
 
-## Thank you page
-The page where user is transferred to upon successful completion of the booking or contact form. User doesn't have to use browser "go back" button, the link to the main page is provided.      
-
-
-!
 
 
 #   [Technology](#technology)
     
 ##  [Languages used](#languages-used)
 
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [HTML](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     
 ##  [Frameworks, libraries & software used](#languages-used)
 
-- [Bootstrap 5.2.0:](https://getbootstrap.com) - Bootstrap was used to create website grid and to make it responsive. Other features used and customised: 
-    * Navbar,
-    * Carousel,
-    * Acordion,
-    * Shortcode for spacing elements and table cell background colour (eg. px-5, warning). 
 - [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the [wireframes](#structure) during the design process.
 
 - [Coolors.co](https://coolors.co/) - was used to create color palette. 
 
-- [Google Fonts](https://fonts.google.com/specimen/Montserrat) - Google fonts were used to import the 'Montserrat' font into the style.css file which is used on all pages throughout the project.
+- [Google Fonts](https://fonts.google.com/specimen/Montserrat) - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
 
 - [Type Scale](https://type-scale.com/) - a type tool used to visualize font size. 
 
@@ -210,13 +161,9 @@ The page where user is transferred to upon successful completion of the booking 
 
 - [GitPod](https://www.gitpod.io) - IDE used to code the project. 
 
-- [Visual Studio Code for Windows](https://code.visualstudio.com/) - IDE used to code the project.  
+- [Visual Studio Code for Windows](https://code.visualstudio.com/) - IDE used to initially code the project.  
 
 - [GitHub](https://github.com/) - GitHub is used to store the project's code after being pushed from Git.
-
-- [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - Photoshop was used to resize the pictures. 
-
-- [Adobe Express](https://express.adobe.com/) - online service used to create logo. 
 
 - [Audioeye.com](https://www.audioeye.com/color-contrast-checker) - used to analyse contrast. 
 
@@ -224,15 +171,9 @@ The page where user is transferred to upon successful completion of the booking 
 
 - [TinyPNG](https://tinypng.com/) - used for images compression.
 
-- [Convertio.co](https://convertio.co/jpg-webp/) - online JPG to WEBP converter. 
-
 - [CSS Beautifier](https://www.freeformatter.com/css-beautifier.html) - used for formatting css file for optimal readability. 
 
 - [Am I Responsive](https://ui.dev/amiresponsive) - online tool used to create mockup to present responsive design of this project. 
-
-- [Go Full Page](https://gofullpage.com/) - Google Chrome extension used to capture full page screen shot.  
-
-- [Lightshot](https://app.prntscr.com/) - Google Chrome extension used to capture screenshots for this README document. 
 
 - [Lighthouse](https://developers.google.com/web) - Google webdev tool used for performance testing. 
 
@@ -249,20 +190,13 @@ The page where user is transferred to upon successful completion of the booking 
 
 Foreground and background color contrast check was done using [Audioeye.com](http://www.audioeye.com) online tool.
 
-![Contrast 1](INSERT IMAGE) 
+[WAVE](https://wave.webaim.org/) Web Accessibility Evaluation Tool was used to check accessibility. It reported some contrast issues but this varied with each check and will be left to fix.
 
-![Contrast 2](INSERT IMAGE) 
-
-
-[WAVE](https://wave.webaim.org/) Web Accessibility Evaluation Tool was used to check accessibility. It reported one error "Missing alternative text". It is related to carousel background photo linked via CSS stylesheet. Alternative text cannot be set in this case. Four alerts are minor and related to justified text in the paragraphs. 
-
-![](INSERT IMAGE)
 
 ##   Performance
 
- [Lighthouse](https://developers.google.com/web) - Google webdev tool used for performance testing. <br>
+ [Lighthouse](https://developers.google.com/web) - Google webdev tool was used for performance testing. All categories were above 80% <br>
 
-![Lighthouse](INSERT IMAGE
 
 ##   Validation
 
@@ -270,23 +204,10 @@ Foreground and background color contrast check was done using [Audioeye.com](htt
 
 - [W3C Markup Validator](https://validator.w3.org/nu/) - validation service used. 
 
-
-
-![First test]
-
-![Final test]
-
-
-
 ###   CSS
 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)  - validation service used. 
 
-- [Custom stylesheet](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falexkisielewicz.github.io%2FPortfolio-Project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en-EN) -  No Error Found. 
-
-- [Bootstrap stylesheet](https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css) 
-
-![CSS Validator](IMAGE)
 
 ##   Browser compatibility
 
@@ -302,7 +223,7 @@ I confirmed that this website is responsive and all the functions are displayed 
 
 ##   Bugs/known issues
 
-(LIST IF ANY OR DELETE SECTION)
+The Iframes in the HTML will need to be edited as it works well across devices but needs to be updated to comply with modern coding standards.
 
 #   Deployment
     
@@ -330,15 +251,16 @@ Portfolio-Project-1](ADD LINK)
 
 ##  Media
 
--   All images used were sourced from free stock photos [Pexels.com](https://pexels.com/) - Photographer [INSERT CREDIT IF ANY]
+-   All images used were sourced from free stock photos [Pexels.com](https://pexels.com/) 
 
 ##  Acknowledgements
 
--   My Mentor Simen Daehlin for helpful feedback and guidance at all stages of the project. 
+-   Myself for completing this task 
+-   My Mentor Simen Daehlin for helpful feedback and guidance at all stages of the project and patience with me.
 -   Code Institute Templates & Slack Community for being invaluable knowledge base. 
 -   W3C Schools for great HTML and CSS learning resources.   
--   Bootstrap Docs 
+- Youtube
 
 
 ## Disclaimer
--   <b>Power of Self Ministries - Youth Camp Website is initially created for educational purpose only.</b> 
+-   <b>PowerCamp- Youth Camp Website is initially created for educational purpose only. However, the Power of Self Ministries exist as an affirmation group and I am the only other Minister with the group.</b> 
