@@ -1,7 +1,9 @@
 <h1 align="center">POWERCAMP</h1>
-### Developer: Elizabeth West
-![Am I Responsive] (INSERT)
+
+# Developer: Elizabeth West
+ (https://elizabethnw.github.io/PowerCamp_MS1/)
 [View live website here](https://elizabethnw.github.io/PowerCamp_MS1/)
+
 This is Youth Ministry website created for Portfolio Project #1 (HTML&CSS) for Diploma in Full Stack Software Development at [Code Institute](https://www.codeinstitute.net). It is responsive across a range of devices and it is easy to navigate for site users. 
 <br>
 The users of this website will be able to find all important information about types of camps we run, FAQ's and a Contact Form.
