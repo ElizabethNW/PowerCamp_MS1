@@ -230,13 +230,11 @@ The Iframes in the HTML will need to be edited as it works well across devices b
 The project was deployed to GitHub Pages using the following steps: 
 
 1. Log in to GitHub and locate the [GitHub Repository 
-Portfolio-Project-1](ADD LINK)
+Portfolio-Project-1](https://github.com/ElizabethNW/PowerCamp_MS1)
 2. Locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "Pages" in "Code and automation" section.
 4. Under "Source", click the dropdown called "Select branch:" and select "Main", click the dropdown called "Select folder" and select "/root".
-5. The page will automatically refresh and you receive message "Your site is published at (ADD LINK)". Result below: 
-
-![Deployment]
+5. The page will automatically refresh and you receive message "Your site is published at .....". 
 
 <br>
 
@@ -244,9 +242,9 @@ Portfolio-Project-1](ADD LINK)
 
 ##  Code
 
--   [Bootstrap5.2.0](https://getbootstrap.com/) - Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System. Additional features used/implemented and customised: Navbar, Carousel, Acordion, shortcode for aligning and spacing elements.  
--   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation) - phone number pattern validation code.
--   [W3C Schools](https://www.w3schools.com/howto/howto_js_image_grid.asp) - inspiration to create responsive image grid gallery. 
+
+-   [MDN Web Docs](https://developer.mozilla.org) - 
+-   [W3C Schools](https://www.w3schools.com) - inspiration to create responsive image grid gallery. 
 -   Code Institute README.md template has been used to create this document. 
 
 ##  Media
