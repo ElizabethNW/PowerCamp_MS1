@@ -15,6 +15,37 @@ body {
 }
 
 
+/*..navbar..*/
+
+.navbar {
+    box-shadow: 0px 5px 10px 0px #aaa;
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    color: #000;
+    opacity: 0.85;
+    height: 50px;
+    z-index: 12;
+  }
+  
+  .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    height: 64px;
+    align-items: center;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
 
 #footer h2{
     padding: 2rem;
@@ -31,5 +62,5 @@ body {
     justify-content: space-evenly;
   }
 
-  
+
   
