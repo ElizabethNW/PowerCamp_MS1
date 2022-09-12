@@ -47,6 +47,18 @@ body {
     font-size: 1.2rem;
   }
 
+  .menu-items a {
+    text-decoration: none;
+    color: #444;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .menu-items a:hover {
+    color: #117964;
+    transition: color 0.3s ease-in-out;
+  }
+  
   .logo {
     order: 1;
     font-size: 2.3rem;
