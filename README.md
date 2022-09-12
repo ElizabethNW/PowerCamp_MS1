@@ -35,12 +35,15 @@ The users of this website will be able to find all important information about t
     *   [Code](#code)
     *   [Media](#media)
     *   [Acknowledgements](#acknowledgements)
+    
 #   Project
+
 ##  Strategy/Scope
 PowerCamp website aims to provide essential information about the available camps and its offer to the user in a clear and visually pleasing way. It targets families looking for information about our Youth Programs
 <br>
  The content is presented on scrolling page with sections dedicated to categorised informations. The <b>primary objective</b> is to encourage sign-ups by leading them to the contact form. 
 <br>
+
 To achieve the strategy goals I implemented following features:
 * simple website layout with a menu bar sticked to the top of the viewport for easy navigation,  
 * informative  "Camps" and FAQ's sections, 
@@ -48,12 +51,14 @@ To achieve the strategy goals I implemented following features:
 * a contact form   
 * consistent images across the whole page to immerse the user in Site Owner's story. 
 <br>
+
 ## Site owner goals
 - to promote empowerment focused Youth Camps in the local area  
 - to provide booking form for the users allowing them to contact us for enquires   
 - provide image gallery with photos of to encourage  people to enquire more
 - provide social media links to advertise and gain new visitors to website, 
 - to provide an accessible website that looks well across a range of devices (responsiveness).  
+
 ##  User goals
 - as a new user I want to:
     - navigate easily through the page, 
@@ -64,35 +69,48 @@ To achieve the strategy goals I implemented following features:
     - contact Camp Organisers, 
     - follow Group on social media, 
     <br>
+    
 - as a returning user I want to:
     -   navigate easily through the page, 
     -   contact camp organisers 
     -   get directions to Office
     -   see the pictures from Camp sessions. 
 <br>
+
 #   User Experience (UX)
+
 ##  Colour Scheme
 Colour palette was selected using coolors.co generator. 
 For beast readability and clean look white colour was chosen for the bacgkround, and neutral colours to go easy on the eyes while scrolling.
 <br>
+
 ##  Typography
 -   The Roboto font is the main font, Poppons is also used throughout the whole website with Sans Serif as the fallback.They are all clean, modern looking fonts and is attractive. It is sourced from [Google fonts]('https://fonts.googleapis.com/css2?family=Roboto&display=swap'
 ) and it's linked to css document via @import.  
+
 - [Type Scale](https://type-scale.com/) - tool were used to visualize different font sizes.
 <br>
+
 ##  Structure
+
 ### Wireframes 
 Wireframes were initially created by Balsamiq and also drawn on pen and paper.
+
 ## Navbar 
 The navigation bar is customised Navbar. It contains custom logo links to relevant sections. All menu elements are highlighted on hover and navbar is sticked to the top of the viewport when scrolling. On small screens navbar shows well-known "hamburger" icon and collapsible menu. 
+
 ## Camps
 In this section there is a short decription of company's offer using pictures and brief words describing different Camp Events.
+
 ## FAQ
 This Section has some key questions often asked, with responses all leading to the contact form to encourage people make contact.
+
 ## Footer
 The Contact page has a form with required fields and a map next to it.   
+
 ## Footer
 Ths has external links to social media pages.   
+
 #   [Technology](#technology)
     
 ##  [Languages used](#languages-used)
@@ -119,10 +137,13 @@ Ths has external links to social media pages.
 - [Lighthouse](https://developers.google.com/web) - Google webdev tool used for performance testing. 
 - [Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/) - used to validate accessibility. 
 <br>
-#    Testing
+
+##    Testing
+
 ##   Accessibility
 Foreground and background color contrast check was done using [Audioeye.com](http://www.audioeye.com) online tool.
 [WAVE](https://wave.webaim.org/) Web Accessibility Evaluation Tool was used to check accessibility. It reported some contrast issues but this varied with each check and will be left to fix.
+
 ##   Performance
  [Lighthouse](https://developers.google.com/web) - Google webdev tool was used for performance testing. All categories were above 80% <br>
 ##   Validation
@@ -138,6 +159,9 @@ Website was tested manually on Apple Iphone 13, Apple iPad, Apple Macbook Air, S
 I confirmed that this website is responsive and all the functions are displayed correctly, all links and contact form work fine.   
 ##   Bugs/known issues
 The Iframes in the HTML will need to be edited as it works well across devices but needs to be updated to comply with modern coding standards.
+##  Left to Implement
+Price List and Dates
+
 #   Deployment
     
 The project was deployed to GitHub Pages using the following steps: 
@@ -148,9 +172,9 @@ Portfolio-Project-1](https://github.com/ElizabethNW/PowerCamp_MS1)
 4. Under "Source", click the dropdown called "Select branch:" and select "Main", click the dropdown called "Select folder" and select "/root".
 5. The page will automatically refresh and you receive message "Your site is published at .....". 
 <br>
+
 #   Credits
 ##  Code
-
 
 -   [MDN Web Docs](https://developer.mozilla.org) - 
 -   [W3C Schools](https://www.w3schools.com) - inspiration to create responsive image grid gallery. 
