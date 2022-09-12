@@ -96,21 +96,16 @@ To achieve the strategy goals I implemented following features:
 ##  Colour Scheme
 
 Colour palette was selected using coolors.co generator. 
-For beast readability and clean look white colour was chosen for the bacgkround, .......
-
-![Colour Scheme](INSERT IMAGE)
+For beast readability and clean look white colour was chosen for the bacgkround, and neutral colours to go easy on the eyes while scrolling.
 
 <br>
 
 ##  Typography
 
--   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback.The Raleway is a clean, modern looking font and is attractive. It is sourced from [Google fonts](https://fonts.google.com/specimen/Montserrat) and it's linked to css document via @import.  
-
-![Google fonts](FONT IMAGE)
+-   The Roboto font is the main font, Poppons is also used throughout the whole website with Sans Serif as the fallback.They are all clean, modern looking fonts and is attractive. It is sourced from [Google fonts]('https://fonts.googleapis.com/css2?family=Roboto&display=swap'
+) and it's linked to css document via @import.  
 
 - [Type Scale](https://type-scale.com/) - tool were used to visualize different font sizes.
-
-![Type Scale](IMAGE)
 
 <br>
 
@@ -180,12 +175,7 @@ The classic footer is preceded by Google Map section that indicated precise loca
 The page where user is transferred to upon successful completion of the booking or contact form. User doesn't have to use browser "go back" button, the link to the main page is provided.      
 
 
-![Thankyou](IMAGE)
-
-## HTTP 404 Page
-An error page in case that user tries to open a website that cannot be found on the web server. User doesn't have to use browser "go back" button, the link to the main page is provided.      
-
-![404](IMAGE)
+!
 
 
 #   [Technology](#technology)
