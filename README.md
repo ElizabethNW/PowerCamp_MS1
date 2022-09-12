@@ -243,8 +243,8 @@ Portfolio-Project-1](https://github.com/ElizabethNW/PowerCamp_MS1)
 ##  Code
 
 
--   [MDN Web Docs](https://developer.mozilla.org) - 
--   [W3C Schools](https://www.w3schools.com) - inspiration to create responsive image grid gallery. 
+-   [MDN Web Docs](https://developer.mozilla.org) 
+-   [W3C Schools](https://www.w3schools.com) 
 -   Code Institute README.md template has been used to create this document. 
 
 ##  Media
@@ -257,8 +257,9 @@ Portfolio-Project-1](https://github.com/ElizabethNW/PowerCamp_MS1)
 -   My Mentor Simen Daehlin for helpful feedback and guidance at all stages of the project and patience with me.
 -   Code Institute Templates & Slack Community for being invaluable knowledge base. 
 -   W3C Schools for great HTML and CSS learning resources.   
-- Youtube
+- Youtube for many videos and tutorials to complement learning
+- Replit as my first goto as it is beginner friendly
 
 
 ## Disclaimer
--   <b>PowerCamp- Youth Camp Website is initially created for educational purpose only. However, the Power of Self Ministries exist as an affirmation group and I am the only other Minister with the group.</b> 
+-   <b>PowerCamp Website is initially created for educational purpose only. However, the Power of Self Ministries exist as an affirmation group and I am the only other Minister with the group.</b> 
