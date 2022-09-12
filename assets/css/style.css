@@ -24,5 +24,12 @@ body {
     
   }
 
+  .icons-row{
+    display: flex;
+    padding: 2rem;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+  }
+
   
   
