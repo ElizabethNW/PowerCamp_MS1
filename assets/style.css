@@ -103,10 +103,14 @@ body {
 
 /* ............ Showcase  styling ........ */
 
+#showcase{
+  padding-top: 52px;
+}
+
 .showcase-area {
-  height: 50vh;
+  height: 58vh;
   background: linear-gradient(
-      rgba(240, 240, 240, 0.144),
+      rgba(240, 240, 240, 0.4),
       rgba(255, 255, 255, 0.336)
     ),
     url("./img8.jpg");
